@@ -1,6 +1,13 @@
-# Flutter-Projects
-This repo for all of my dart/flutter projects.\
+# Flutter Projects
+This repo for all of my dart/flutter learning projects.\
 Each file will contain a separate project, and this an overview on them in descending order.\
+
+---
+
+## 5- Git Foundations 
+This is the 3rd cours of [Flutter Applications Path] (https://satr.codes/path/OHarLRCHae/view) on Satr platform.\
+The final project was to creating a repo and upload files, update files, making commits, and the day-by-day dealing with Git and GitHub.\
+> The original repo will be deleted to organize me profile.
 
 ---
 
