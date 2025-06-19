@@ -1,11 +1,20 @@
 # Flutter-Projects
 This repo for all of my dart/flutter projects.\
-Each file will contain a separate project and this an overview on them in descending order.\
+Each file will contain a separate project, and this an overview on them in descending order.\
 
 ---
 
-## 3- Flutter 101
-This is the 1st course of [Flutter Applications Path] (https://satr.codes/path/OHarLRCHae/view) on [Satr] platform.\
+## 4- Flutter 101 Final Project
+This is the 1st course of [Flutter Applications Path] (https://satr.codes/path/OHarLRCHae/view) on Satr platform.\
+The final project is to build a specific UI design using simple widgets.
+
+### Final Result of The Final Project
+![Final Project](https://github.com/AbobakerAhmed/Flutter-Projects/blob/main/2-Flutter_Application_Path_on_Satr/2-%20Flutter%20101/Final%20Project/Final_Project_Result.jpg)
+
+---
+
+## 3- Flutter 101 Practical Section
+This is the 2nd course of [Flutter Applications Path] (https://satr.codes/path/OHarLRCHae/view) on Satr platform.\
 This assignment was the application of the coures concepts as a doctor page in a mobile app.
 
 ### Final Result of Doctor Page Application Project
@@ -15,7 +24,7 @@ This assignment was the application of the coures concepts as a doctor page in a
 
 
 ## 2- Dart 101
-This is the 1st course of [Flutter Applications Path] (https://satr.codes/path/OHarLRCHae/view) on [Satr] platform.\
+This is the 1st course of [Flutter Applications Path] (https://satr.codes/path/OHarLRCHae/view) on Satr platform.\
 The final assingment was a simple task with dart about printing a letter depending on the grade.
 
 ### Final Result of Printing Students' Grades Project
